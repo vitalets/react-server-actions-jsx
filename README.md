@@ -1,6 +1,6 @@
 # react-server-actions-jsx
 
-A source code for the article [Returning JSX from React Server Actions](https://dev.to/vitalets/returning-jsx-from-react-server-actions-1de3).
+An example code for the article [Returning JSX from React Server Actions](https://dev.to/vitalets/returning-jsx-from-react-server-actions-1de3).
 
 ## How to run
 
